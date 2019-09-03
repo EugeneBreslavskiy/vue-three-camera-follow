@@ -1,6 +1,14 @@
-# vue-three-template
+## vue-three-camera-follow
 
-> vue.js + three.js template
+> perspective camera change own rotation with mouse movement
+
+## Demo
+
+[surge.sh](http://vue-three-camera-follow.surge.sh)
+
+## Credits
+
+- Photo by [Osman Rana](https://unsplash.com/@osmanrana)  
 
 ## Build Setup
 
